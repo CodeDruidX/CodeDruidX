@@ -4,10 +4,10 @@ Hello GitHub, my name is **DroidX**, i am russian student studing in [SESC](http
 
 You can find me there:
 [![](https://img.shields.io/badge/Discord-blue.svg)](https://discordapp.com/users/577746511140487183)
-[![](https://img.shields.io/badge/Telegram-cyan.svg)](https://t.me/tg_droid_x_12345qwerty)
+[![](https://img.shields.io/badge/Telegram-cyan.svg)](https://t.me/tg_droid_x)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDroidX&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-![DroidX's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDroidX&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDruidX&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+![DroidX's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDruidX&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&show_icons=true)
 # My setup
 ```python
 CPU: Ryzen 3 1300
