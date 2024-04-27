@@ -14,4 +14,4 @@ GPU: AMD RX 580 8g
 ```
 # Main blog
 
-[<center><img src="https://img.shields.io/badge/Habr-cyan" height="50" /></center>](https://habr.com/ru/users/CodeDroidX/)
+[<img src="https://img.shields.io/badge/Habr-cyan" height="50" />](https://habr.com/ru/users/CodeDroidX/)
