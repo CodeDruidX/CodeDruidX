@@ -1,9 +1,9 @@
 
 <div align="center">
-  <h1>Hello stranger 👋</h1>
+  <h1>Hello stranger ⌛</h1>
 </div>
 
-![banner (1)](https://user-images.githubusercontent.com/52743561/200163837-0efe8a85-8eb2-4e59-8cfe-b0e8de903e56.png)
+![image](https://github.com/user-attachments/assets/39e0958c-68de-4fc2-a5d9-bfebb032e80e)
 
 ### My name is **DroidX**, i'm russian freelance developer & student, studing in [SESC](https://sesc.nsu.ru/) of [NSU](https://www.nsu.ru/n/)
 
@@ -65,7 +65,7 @@ I hope that the era of a global nefarious internet won't come, but considering c
 <p align="center">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
     <br/>
-    <img src="https://visitcount.itsvg.in/api?id=CodeDruidX&label=You%20are&color=4&pretty=false" /> ;)
+    <img src="https://visitcount.itsvg.in/api?id=CodeDruidX&label=You%20are&color=1&pretty=false" /> ;)
 </p>
 
 
