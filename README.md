@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Hello stranger ⌛</h1>
+  <h1>Welcome stranger ⌛</h1>
 </div>
 
 ![image](https://github.com/user-attachments/assets/39e0958c-68de-4fc2-a5d9-bfebb032e80e)
@@ -25,7 +25,7 @@ I hope that the era of a global nefarious internet won't come, but considering c
         <b>🖥️ Desktop</b>
       </td>
       <td width="50%" align="center">
-        <img src="https://skillicons.dev/icons?i=py,godot,nodejs,docker,nginx,selenium,anaconda,forth,opencv,sqlite,electron" />
+        <img src="https://skillicons.dev/icons?i=py,godot,nodejs,docker,tensorflow,anaconda,forth,pytorch,electron&perline=3" />
       </td>
     </tr>
     <tr border="none">
@@ -33,7 +33,7 @@ I hope that the era of a global nefarious internet won't come, but considering c
         <b>🔭 Web</b>
       </td>
       <td width="50%" align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,fastapi,react,codepen,md" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,fastapi,react,codepen,md&perline=8" />
       </td>
     </tr>
     <tr border="none">
@@ -41,7 +41,7 @@ I hope that the era of a global nefarious internet won't come, but considering c
         <b>⚗️ Tools</b>
       </td>
       <td width="50%" align="center">
-        <img src="https://skillicons.dev/icons?i=git,vscodium,atom,bash,powershell,obsidian,regex" />
+        <img src="https://skillicons.dev/icons?i=git,vscodium,atom,bash,powershell,obsidian,regex,vim&perline=8" />
       </td>
     </tr>
     <tr border="none">
@@ -49,7 +49,7 @@ I hope that the era of a global nefarious internet won't come, but considering c
         <b>🎭 OS</b>
       </td>
       <td width="50%" align="center">
-        <img src="https://skillicons.dev/icons?i=windows,debian,arch" />
+        <img src="https://skillicons.dev/icons?i=windows,debian,arch&perline=3" />
       </td>
     </tr>
     <tr border="none">
@@ -57,17 +57,15 @@ I hope that the era of a global nefarious internet won't come, but considering c
         <b>💾 Used, but not skilled yet</b>
       </td>
       <td width="50%" align="center">
-        <img src="https://skillicons.dev/icons?i=cpp,go,java,kotlin,lua,latex,cloudflare,githubactions,sklearn" />
+        <img src="https://skillicons.dev/icons?i=cpp,go,java,kotlin,lua,latex,cloudflare,githubactions,sklearn&perline=3" />
       </td>
     </tr>
 </table>
 
+![lightgeen-ezgif com-optimize](https://github.com/user-attachments/assets/55d04add-3d85-4fa6-b95d-31fce3c84c50)
+
 <p align="center">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <br/>
     <img src="https://visitcount.itsvg.in/api?id=CodeDruidX&label=You%20are&color=1&pretty=false" /> ;)
 </p>
-
-
 
 
